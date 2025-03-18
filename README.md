@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MSdelP
 - 👀 I’m interested in ... Code, Security, Gaming and MTB.
-- 🌱 I’m currently learning ... 1º DAM.
+ 
 - 📫 How to reach me ... msdelp@proton.me
  ⚡⚡                                       
 
