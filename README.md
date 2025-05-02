@@ -21,7 +21,7 @@
 ## 📫 Contacto
 ¿Quieres colaborar, compartir ideas o simplemente decir hola?
 
-- 📧 marsandelpoz@gmail.com  
+- 📧 msdelp@proton.me
 - 💬 Abierto a contribuciones y proyectos interesantes
 
 ## ⚡ Fun Fact
