@@ -17,7 +17,7 @@ Apasionado por el **código**, la **seguridad informática**, los **videojuegos*
 ### ⚙️ Entorno de trabajo
 
 ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=plastic&logo=arch-linux&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=plastic&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=plastic&logo=git&logoColor=white)
 
 
