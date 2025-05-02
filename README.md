@@ -3,11 +3,23 @@
 ## 💻 Sobre mí
 Apasionado por el **código**, la **seguridad informática**, los **videojuegos** y el **MTB** 🚵‍♂️. Siempre explorando nuevas tecnologías, resolviendo problemas y pedaleando fuerte tanto en el teclado como en la montaña.
 
-- 🔐 Fan de la **ciberseguridad** y la protección de sistemas.
-- 🎮 Jugador empedernido — porque el control también se ejerce en el joystick.
-- 🧠 En constante aprendizaje: desde nuevas herramientas hasta exploits curiosos.
-- ![](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) Me gusta crear, romper y arreglar cosas... en ese orden.
-- ![](https://img.shields.io/badge/-Arch%20Linux-1793D1?style=flat-square&logo=arch-linux&logoColor=white) I use Arch BTW!
+---
+
+### 🧠 Intereses
+
+- 🔐 **Ciberseguridad** y protección de sistemas.
+- 🎮 **Gamer empedernido** — el control también se ejerce en el joystick.
+- 🧪 Siempre aprendiendo: herramientas nuevas, exploits, y rarezas técnicas.
+- 🛠️ Me gusta **crear, romper y arreglar cosas**... en ese orden.
+
+---
+
+### ⚙️ Entorno de trabajo
+
+![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=flat-square&logo=arch-linux&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
 
 ## 📫 Contacto
 ¿Quieres colaborar, compartir ideas o simplemente decir hola?
