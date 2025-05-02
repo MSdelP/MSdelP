@@ -6,8 +6,8 @@ Apasionado por el **código**, la **seguridad informática**, los **videojuegos*
 - 🔐 Fan de la **ciberseguridad** y la protección de sistemas.
 - 🎮 Jugador empedernido — porque el control también se ejerce en el joystick.
 - 🧠 En constante aprendizaje: desde nuevas herramientas hasta exploits curiosos.
-- ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) Me gusta crear, romper y arreglar cosas... en ese orden.
-- ![Arch Linux](https://img.shields.io/badge/-Arch%20Linux-1793D1?style=flat-square&logo=arch-linux&logoColor=white) I use Arch BTW!
+- ![](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) Me gusta crear, romper y arreglar cosas... en ese orden.
+- ![](https://img.shields.io/badge/-Arch%20Linux-1793D1?style=flat-square&logo=arch-linux&logoColor=white) I use Arch BTW!
 
 ## 📫 Contacto
 ¿Quieres colaborar, compartir ideas o simplemente decir hola?
