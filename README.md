@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy ![@MSdelP](https://img.shields.io/badge/GitHub-%40MSdelP-181717?style=flat-square&logo=github) @MSdelP
+# 👋 ¡Hola! Soy ![@MSdelP](https://img.shields.io/badge/GitHub-%40MSdelP-181717?style=flat-square&logo=github)
 
 ## 💻 Sobre mí
 Apasionado por el **código**, la **seguridad informática**, los **videojuegos** y el **MTB** 🚵‍♂️. Siempre explorando nuevas tecnologías, resolviendo problemas y pedaleando fuerte tanto en el teclado como en la montaña.
