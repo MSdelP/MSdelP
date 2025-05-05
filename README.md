@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy ![@MSdelP](https://img.shields.io/badge/GitHub-%40MSdelP-181717?style=flat-square&logo=github)
+# 👋 ¡Hola! Soy ![@MSdelP](https://img.shields.io/badge/GitHub-%40MSdelP-181717?style=flat-square&logo=github) Técnico Superior DAM
 
 ---
 
